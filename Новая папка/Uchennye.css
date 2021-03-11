@@ -1,0 +1,55 @@
+.card1 {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  height: 850px;
+  width: 300px;
+  position:absolute;
+  left: 150px;
+  top: 150px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+.bio{
+
+  right:900px;
+}
+.uuu {background-position: bottom;
+
+}
+.al-bg-light {
+  background-image: url('https://static0.abitant.com/uploads/product_image/135/7572/vinilovye_oboi_accent_harlequin_plains_structures_1110_29_large.jpg');
+  height: 1400px;
+  margin: 0;
+}
+h1{
+  text-align: center;
+}
+.card2 {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  height: 1020px;
+  width: 300px;
+  position:absolute;
+  left: 610px;
+   top: 150px;
+}
+.card3 {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  height: 850px;
+  width: 300px;
+  position:absolute;
+  right: 150px;
+   top: 150px;
+}

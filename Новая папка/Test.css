@@ -1,0 +1,14 @@
+.aaa {
+	width: 750px;
+	height: 1000px;
+	background-color: #5c5fb1;
+	text-align: center;
+	box-shadow: 0 -5px 0 black;
+	box-shadow: 0 -5px black;
+	margin-left: auto;
+	margin-right: auto;
+}
+.zzz {
+	text-align: center;
+	font-size: 40px;
+}

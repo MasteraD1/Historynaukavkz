@@ -1,0 +1,30 @@
+.aaa {
+	width: 1200px;
+	height: 1000px;
+	background-image: url('https://re-space.ru/uploads/products/20.12.19/de789e693df78c302a6f5c21fb623954b3e8c5abf3aa9eaa9d1497af36e67875.jpg');
+	margin: 0;
+	text-align: center;
+	box-shadow: 0 -5px 0 black;
+	border-radius: 0 0 10px 10px;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 0 -5px black;
+	margin-bottom: 50px;
+	opacity: 0.8;
+	font-size: 30px;
+}
+.hhh {
+	text-align: center;
+}
+.www {
+	text-align: left;
+	margin-left: 10px;
+	font-size: 40px;
+}
+.vvv {
+	width: 700px;
+	height: 500px;
+}
+h1{
+	color: Yellow;
+}

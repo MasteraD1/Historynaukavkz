@@ -1,0 +1,29 @@
+.aaa {
+	width: 750px;
+	height: 850px;
+	background-image: url('https://i.pinimg.com/originals/f4/71/09/f47109e60f7fb19a608e9738d5a90f6b.png');
+	margin: 0;
+	text-align: center;
+	box-shadow: 0 -5px 0 black;
+	border-radius: 0 0 10px 10px;
+	margin-right: auto;
+	margin-left: auto;
+	opacity: 0.8;
+	margin-bottom: 200px;
+}
+.ppp {
+	text-align: center;
+	color:yellow;
+}
+.ddd {
+
+}
+.controls {
+  position: absolute;
+  background: orange;
+  top: 50%;
+  left: 40%;
+  padding: 1em;
+  margin-left: -600px;
+  margin-top: -200px;
+}

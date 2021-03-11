@@ -1,0 +1,43 @@
+.container {
+	width: 950px;
+	height: 1000px;
+	background-image: url('https://cdn.statically.io/img/i.pinimg.com/564x/84/4e/eb/844eebc4c90e72b88c7fbcc49b13cb18.jpg');
+	margin: 0;
+	text-align: left;
+	box-shadow: 0 -5px 0 black;
+	border-radius: 0 0 10px 10px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	font-size: 30px;
+	opacity: 0.8;
+}
+.main {
+	text-align: center;
+	font-size: 60px;
+	background-color: yellow;
+	background-image:
+}
+.rrr {
+	text-align: center;
+	font-size: 30px;
+	font-color: white;
+}
+a {
+	margin-left: 20px;
+}
+p {
+	margin-left: 20px;
+}
+.ccc {
+	font-size: 40px;
+}
+.vvv {
+	background-color: purple;
+}
+a {
+	text-decoration: none;
+}
+.uuu {
+
+}

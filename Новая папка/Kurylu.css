@@ -1,0 +1,22 @@
+.eee {
+	margin-left: 850px;
+    width: 950px;
+	height: 800px;
+	margin-top: 100px;
+}
+.aaa {
+	width: 750px;
+	height: 800px;
+	background-color: #5c5fb1;
+	text-align: center;
+	box-shadow: 0 -5px 0 black;
+	margin-left: 40px;
+	margin-top: -700px;
+	box-shadow: 0 -5px black;
+	opacity: 0.8;
+}
+.kkk {
+	width: 500px;
+	height: 300px;
+	margin-top: 20px;
+}
